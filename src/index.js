@@ -1,0 +1,1 @@
+export { default as ScrollShow } from "./ScrollShow.svelte"
