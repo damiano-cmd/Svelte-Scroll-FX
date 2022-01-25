@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/damiano-cmd/Svelte_Scroll_FX.git"
+    "url": "git+https://github.com/damiano-cmd/Svelte-Scroll-FX.git"
   },
   "keywords": [
     "javascript",
@@ -20,7 +20,7 @@
   "author": "damian-deni",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/damiano-cmd/Svelte_Scroll_FX/issues"
+    "url": "https://github.com/damiano-cmd/Svelte-Scroll-FX/issues"
   },
-  "homepage": "https://github.com/damiano-cmd/Svelte_Scroll_FX#readme"
+  "homepage": "https://github.com/damiano-cmd/Svelte-Scroll-FX#readme"
 }
